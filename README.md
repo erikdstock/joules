@@ -64,9 +64,9 @@ var timesTwo = function(whatever) {
 }
 
 myArray.map(timesTwo);
-
-// ( Array.map() takes a function as an argument and runs each value through that function. whatever the function returns comes out in a new array, so the result here would be [2, 4, 6]. note that if i forgot the RETURN keyword the result would be [undefined, undefined, undefined] :(   )
 ```
+ Array.map() takes a function as an argument and runs each value through that function. whatever the function returns comes out in a new array, so the result here would be [2, 4, 6]. note that if i forgot the RETURN keyword the result would be [undefined, undefined, undefined] :( 
+
 in short, when you see a function inside the arguments to another function, do not be scared.
 
 # Other notes
