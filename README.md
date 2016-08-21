@@ -41,10 +41,11 @@ Some resources I recommend to get a basic grounding in js:
 ... this might not make sense until later but here goes:
 - if a function does not have an explicit statement starting with return it will exit with the value 'undefined.' you'll just have to keep remembering this.
 
-- any time you are declaring a new variable in javascript, use var. for example:
+- any time you are declaring a new variable in javascript, use `var`. for example:
+```
 x = 3 // bad
 var x = 3 // good.
-
+```
 - accept the fact that you are going to be dealing with piles of `(({{}}))`. you will develop an eye for it, and a linter will help catch when they are missing.
 
 - on that note, one of the most powerful and difficult to understand things when you are string programming with js is passing a function as an argument to another function. it often looks like this:
