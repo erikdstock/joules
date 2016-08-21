@@ -29,8 +29,8 @@ Some resources I recommend to get a basic grounding in js:
 * have a basic understanding of the command line and get used to doing things from it as much as possible.
 
 ### Other resources: 
-[exercism](https://exercism.io) - we could use this for exercises too and we probably will. great place to practice algorithms with a community for feedback. I highly recommend their [intro page](http://exercism.io/languages/javascript) at least
-[mdn](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - the docs for javascript. another thing that is difficult to read at first- but you will get used to it
+* [exercism](https://exercism.io) - we could use this for exercises too and we probably will. great place to practice algorithms with a community for feedback. I highly recommend their [intro page](http://exercism.io/languages/javascript) at least
+* [mdn](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - the docs for javascript. another thing that is difficult to read at first- but you will get used to it
 
 ## Ground rules
 * follow the basic decency of the [open code of conduct](http://todogroup.org/opencodeofconduct/)
