@@ -4,13 +4,25 @@ a place to do and discuss javascript exercises
 Welcome!
 I have no curriculum for this, so we'll just go with things we find online or projects that sound like fun. Once we have the basics down we could move forward with entire projects like websites built from the ground up in node.js, but this repo will just be a place to get our feet wet.
 
+## Slack Channel
+[CodeSchool Slack Chat](https://codeschoolgroup.slack.com/)
+
 ## Setup
-* if you are using a mac, have homebrew installed
+### if you are using a mac:
+* have homebrew installed
 * have a text editor installed along with its packages for linting javascript and bracket matching. I recommend atom with the packages `linter` and `linter-jshint`
 * also install node.js from [here](https://nodejs.org/en/download/package-manager/#osx)
 * git should also be installed.
-* We'll start in this repo by all sharing it. I'll add challenges that i find other places and let you all know about it.
-  * on that note, clone this repo to your computer and then check out a branch in your name:
+
+### if you are using linux or windows and need to install linux:
+* follow the instructions in the Why Can't I Use Windows? Section [here](https://www.theodinproject.com/courses/web-development-101/lessons/installations) and choose to use a virtual machine (seamless integration with windows/limited resources), dual boot (best performance/hardest to set up), or Online IDE (no set up/stuck with built in tools).
+* have a text editor installed along with its packages for linting javascript and bracket matching. Three good options are [Sublime Text 3](https://www.sublimetext.com/3), [Atom](https://atom.io/), and [Visual Studio Code](https://code.visualstudio.com/), use their integrated package managers to install `linter` and `linter-jshint`
+* also install node.js from [here](https://nodejs.org/en/download/package-manager/)
+* git should also be installed.
+
+### clone the repo:
+* on that note, clone this repo to your computer and then check out a branch in your name:
+
 ```
 # from in your code folder:
 git clone [get path from green clone button at the top of this page]
@@ -22,15 +34,18 @@ git branch
 git push origin [your new branch name]
 ```
 
+
 ## Resources
 Some resources I recommend to get a basic grounding in js:
 * [codecademy](https://www.codecademy.com/learn/javascript) - frustrating at first, but it's really just about learning the very basics of the language. we can move away from it if we want soon after.
 * same for git: either the codecademy course or [this](https://try.github.io/levels/1/challenges/1). 
 * have a basic understanding of the command line and get used to doing things from it as much as possible.
+* [The Odin Project curriculum](https://www.theodinproject.com/courses) - try to get through section 1: Intro to Web Development (just reading), and up to the Installations project in section 2: Web Development 101
 
 ### Other resources: 
 * [exercism](https://exercism.io) - we could use this for exercises too and we probably will. great place to practice algorithms with a community for feedback. I highly recommend their [intro page](http://exercism.io/languages/javascript) at least
 * [mdn](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - the docs for javascript. another thing that is difficult to read at first- but you will get used to it
+
 
 ## Ground rules
 * follow the basic decency of the [open code of conduct](http://todogroup.org/opencodeofconduct/)
